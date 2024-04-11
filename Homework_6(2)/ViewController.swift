@@ -166,6 +166,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("Add print, please")
+        
+        
         creatingCircle()
         labelUnderButtons.isHidden = true
         
@@ -250,7 +253,7 @@ class ViewController: UIViewController {
     
     
     
-    
+   
 }
 
 
